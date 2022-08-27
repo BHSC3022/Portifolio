@@ -1,0 +1,59 @@
+package revisão;
+
+import javax.swing.JOptionPane;
+
+public class Revisão {
+
+    public static void main(String[] args) {
+        VolPrisma();
+        Altura();
+        Base();
+        Área();
+        Área2();
+        Área3();
+        Área4();
+    }
+    public static void VolPrisma () {
+        double ab = Double.parseDouble(JOptionPane.showInputDialog("Área de base"));
+        double h = Double.parseDouble(JOptionPane.showInputDialog("Altura"));
+        JOptionPane.showMessageDialog(null, ab*h);
+        
+    }
+    public static void Altura () {
+        double ab = Double.parseDouble(JOptionPane.showInputDialog("Área de base"));
+        double v = Double.parseDouble(JOptionPane.showInputDialog("Volume"));
+        JOptionPane.showMessageDialog(null, ab/v);
+        
+    }
+    public static void Base () {
+        double v = Double.parseDouble(JOptionPane.showInputDialog("Volume"));
+        double h = Double.parseDouble(JOptionPane.showInputDialog("Altura"));
+        JOptionPane.showMessageDialog(null, v/h);
+        
+    }
+    public static void Área  () {
+        double Ab = Double.parseDouble(JOptionPane.showInputDialog("Área da base"));
+        double At= Double.parseDouble(JOptionPane.showInputDialog("Área total"));
+        double N = Double.parseDouble(JOptionPane.showInputDialog("número de faces laterais"));
+        double Af = Double.parseDouble(JOptionPane.showInputDialog("Área da face lateral"));
+        JOptionPane.showMessageDialog(null, At = 2*Ab + N*Af);
+    } 
+    public static void Área2  () {
+        double At= Double.parseDouble(JOptionPane.showInputDialog("Área total"));
+        double N = Double.parseDouble(JOptionPane.showInputDialog("número de faces laterais"));
+        double Af = Double.parseDouble(JOptionPane.showInputDialog("Área da face lateral"));
+        JOptionPane.showMessageDialog(null, (At-N*Af)/2);
+    }
+    public static void Área3 () {
+        double Ab = Double.parseDouble(JOptionPane.showInputDialog("Área da base"));
+        double At= Double.parseDouble(JOptionPane.showInputDialog("Área total"));
+        double Af = Double.parseDouble(JOptionPane.showInputDialog("Área da face lateral"));
+        JOptionPane.showMessageDialog(null, (2*Ab-At)/-Af );
+    }
+    public static void Área4  () {
+        double Ab = Double.parseDouble(JOptionPane.showInputDialog("Área da base"));
+        double At= Double.parseDouble(JOptionPane.showInputDialog("Área total"));
+        double N = Double.parseDouble(JOptionPane.showInputDialog("número de faces laterais"));
+        JOptionPane.showMessageDialog(null, (2*Ab-At)/-N);
+    }
+}

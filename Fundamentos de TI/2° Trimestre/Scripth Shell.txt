@@ -1,0 +1,13 @@
+#!/bin/bash
+echo " Digite dois numeros de diferentes valores " 
+echo ""
+read -p "Digite o primeiro numero " n1
+read -p "Digite o segundo numero " n2
+if [$1 -gt $2]
+then
+	echo "O maior numero entre os dois é; $n1"
+else
+	echo "O menor numero entre os dois é: $n2"
+fi
+res=$(($n1+$n2))
+echo "O valor da soma dos valores é: $res"

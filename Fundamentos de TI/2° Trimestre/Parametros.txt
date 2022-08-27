@@ -1,0 +1,27 @@
+#!/bin/bash
+while true
+do
+if [ $# -gt 0 ]; then 
+	echo "Digite nenhum número durante a execução"
+else
+	read -p "Insira um número para descobrir seus pares anteriores: " numero
+	clear
+	echo "Numeros pares antes de $numero"
+	while [ $numero -gt 0 ]
+	do
+		numero=$(($numero - 1))
+		checagem=$(($numero % 2))
+		if [ $checagem -eq 0 ]; then 
+			echo $numero
+		fi
+	done 
+	echo "Fim dos números pares"
+	echo ""
+	read -p "Deseja ver outra lista de números pares? " respostas 
+	if [ $respostas != "sim" ]; then
+		break
+	else
+		clear
+	fi
+fi
+done

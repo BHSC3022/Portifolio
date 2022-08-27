@@ -1,0 +1,11 @@
+#1/bin/bash
+read -p "Digite o valor que vpcẽ quer a tabuda " num
+fim=$((num*10))
+
+echo $( seq 0 $num $fim )
+
+for i in $( seq 0 10 )
+do
+result=$(($i*$num))
+echo "$i x $num é igual a $result"
+done
