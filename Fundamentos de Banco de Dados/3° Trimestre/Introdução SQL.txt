@@ -1,0 +1,38 @@
+  CREATE TABLE Bilheteria(
+    NomeFilme VARCHAR (20) not NULL,
+    horario int NOT NULL,
+    preço int not NULL,
+    idBilhete int not NULL,
+    PRIMARY KEY (idBilhete)
+   )
+   
+   CREATE TABLE Sala(
+    idSala int NOT NULL,
+    NumeroSala int not NULL,
+    Capacidade int NOT NULL,
+    PRIMARY key (idSala)
+   )
+   CREATE TABLE Filme(
+    idFilme int NOT NULL,
+    horario int not NULL,
+    genero VARCHAR (10)NOT NULL,
+    sinopse VARCHAR (255)not NULL,
+    ano int not NULL,
+    nome VARCHAR (15) not NULL,
+    PRIMARY key (idFilme)
+   )
+   CREATE TABLE Funcionário(
+    id int NOT NULL,
+    nome VARCHAR (25) not NULL,
+    carteiraDeTrabalho int NOT NULL,
+    salario int not NULL,
+    PRIMARY key (id)
+   )
+  CREATE TABLE Função(
+   idFunção int NOT NULL,
+   segurança VARCHAR((25)NOt NULL,
+   limpeza VARCHAR (25) not NULL,
+   venda VARCHAR (25) not NULl,
+  PRIMARY key (idSala)
+   )
+        

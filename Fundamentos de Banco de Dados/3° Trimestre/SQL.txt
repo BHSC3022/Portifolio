@@ -1,0 +1,25 @@
+CREATE TABLE Produto(
+    codigo VARCHAR (8) not NULL,
+    nome VARCHAR (15) not NULL,
+    ingredientes VARCHAR (255) not NULL,
+    PRIMARY KEY (codigo)
+   );
+  CREATE TABLE Vendas(
+    cod_venda VARHAR(8) not NULL,
+    cod_produto VARCHAR (8) not NULL,
+    Quantidade int not NULL,
+    ValorRecebido int not NULL,
+    PRIMARY key (cod_venda)
+    );
+   Create TABLE Vendedor(
+     Cpf int not NULL,
+     Nome VARCHAR (15) not NULL,
+     Turno VARCHAR (15) not NULL,
+     PRIMARY KEY (Cpf)
+     );
+   CREATE TABLE Cliente(
+     Cpf int not NULL,
+     nome VARCHAR (15) not NULL,
+     DinheiroGasto 	int not NULL,
+     PRIMARY KEY (Cpf)
+     )
