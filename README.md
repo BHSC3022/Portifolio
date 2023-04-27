@@ -15,8 +15,9 @@
 ## Descrição
 Este Portifólio é sobre o conteudo que teremos durante o 2º e 3º ano do ensino médio.
 
-# Portifolio
+# Portifolio 3° ano
 ---
+# 1° Trimestre 
 ## Modelagem de Sistema:
 * Diagrama de Atividades: https://drive.google.com/file/d/1u6vvnxLb_3DCv37vuvaZ_HnfiX7Ckj41/view?usp=sharing
 
