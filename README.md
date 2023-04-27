@@ -14,3 +14,12 @@
  * Docs
 ## Descrição
 Este Portifólio é sobre o conteudo que teremos durante o 2º e 3º ano do ensino médio.
+
+# Portifolio
+---
+## Modelagem de Sistema:
+* Diagrama de Atividades: https://drive.google.com/file/d/1u6vvnxLb_3DCv37vuvaZ_HnfiX7Ckj41/view?usp=sharing
+
+## Autoria
+* Protótipo e propaganda: https://drive.google.com/file/d/1E-zvRbvEu56V5gNpScOyfcD4s_r2E42O/view?usp=sharing
+
