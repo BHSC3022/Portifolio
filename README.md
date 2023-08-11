@@ -27,8 +27,19 @@ Este Portifólio é sobre o conteudo que teremos durante o 2º e 3º ano do ensi
 ---
 ## Programação de Aplicativos
 * AulaPager: https://drive.google.com/file/d/1eDQVoh2PVWe7ZyN8_0x1AeCsiOZv8dw8/view?usp=sharing
-* Eu escolhi essa atividade porque gostei dela e foi a que eu mais entendi o como fazer o código.
+* Eu escolhi essa atividade porque gostei dela e foi a que eu mais entendi como fazer o código.
 
 ## Autoria 
 * Calculadora de IMC: https://drive.google.com/file/d/1NPf22eBYOWk1HCgMK7N5SPFwawRgyLz9/view?usp=sharing
+---
+# 2° Trimestre
+## Testes de Sistemas:
+* Tipos de Teste de Software: https://docs.google.com/document/d/18KqEVbJG6wMXNBmYnkKwsH9JuOZFj6A73zp2O0za6ak/edit?usp=sharing
+* Eu escolhi essa atividade porque foi fácil e ajudou eu a compreender sobre os testes de software
+
+## Autoria
+* Testes de Sistemas: https://docs.google.com/document/d/1jwMGvtPiu0oPQlPQMigFcw-LJDG43ZBfRqE3fhu05EI/edit?usp=sharing
+---
+
+
 
