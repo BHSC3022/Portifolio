@@ -37,9 +37,12 @@ Este Portifólio é sobre o conteudo que teremos durante o 2º e 3º ano do ensi
 * Tipos de Teste de Software: https://docs.google.com/document/d/18KqEVbJG6wMXNBmYnkKwsH9JuOZFj6A73zp2O0za6ak/edit?usp=sharing
 * Eu escolhi essa atividade porque foi fácil e ajudou eu a compreender sobre os testes de software
 
-## Autoria
-* Testes de Sistemas: https://docs.google.com/document/d/1jwMGvtPiu0oPQlPQMigFcw-LJDG43ZBfRqE3fhu05EI/edit?usp=sharing
+## Programação de Aplicativos
+* HTML e CSS: https://github.com/BHSC3022/Atividade-HTML-e-CSS.git
+* Escolhi essa atividade porque eu gostei de realizá-la
 ---
-
+## Autorias
+* Testes de Sistemas: https://docs.google.com/document/d/1jwMGvtPiu0oPQlPQMigFcw-LJDG43ZBfRqE3fhu05EI/edit?usp=sharing
+* FINTECH: https://www.figma.com/proto/tCWiaG1wyPYRmCMyz0fhjF/Fintech?type=design&node-id=2-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&authuser=0
 
 
