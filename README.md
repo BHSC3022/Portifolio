@@ -34,8 +34,8 @@ Este Portifólio é sobre o conteudo que teremos durante o 2º e 3º ano do ensi
 ---
 # 2° Trimestre
 ## Testes de Sistemas:
-* Tipos de Teste de Software: https://docs.google.com/document/d/18KqEVbJG6wMXNBmYnkKwsH9JuOZFj6A73zp2O0za6ak/edit?usp=sharing
-* Eu escolhi essa atividade porque foi fácil e ajudou eu a compreender sobre os testes de software
+* Tipos de Teste de Software: https://github.com/BHSC3022/att.LogicaComJavaScript.git
+* Escolhi essa atividade porque me ajudou a entender melhor sobre java script
 
 ## Programação de Aplicativos
 * HTML e CSS: https://github.com/BHSC3022/Atividade-HTML-e-CSS.git
