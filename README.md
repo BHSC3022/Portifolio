@@ -33,12 +33,10 @@ Este Portifólio é sobre o conteudo que teremos durante o 2º e 3º ano do ensi
 * Calculadora de IMC: https://drive.google.com/file/d/1NPf22eBYOWk1HCgMK7N5SPFwawRgyLz9/view?usp=sharing
 ---
 # 2° Trimestre
-## Testes de Sistemas:
-* Tipos de Teste de Software: https://github.com/BHSC3022/att.LogicaComJavaScript.git
+## Lógica com JavaScript: https://github.com/BHSC3022/att.LogicaComJavaScript.git
 * Escolhi essa atividade porque me ajudou a entender melhor sobre java script
 
-## Programação de Aplicativos
-* HTML e CSS: https://github.com/BHSC3022/Atividade-HTML-e-CSS.git
+## HTML e CSS: https://github.com/BHSC3022/Atividade-HTML-e-CSS.git
 * Escolhi essa atividade porque eu gostei de realizá-la
 ---
 ## Autorias
