@@ -49,4 +49,7 @@ Este Portifólio é sobre o conteudo que teremos durante o 2º e 3º ano do ensi
 ---
 ## TCC: https://drive.google.com/drive/folders/12FkgnxqIwODWj-PNFTSgZKpX-3kza7M8?usp=sharing
 * Escolhi essa atividade pois ela é a mais importante para o curso técnico
+---
+### Autoria
+* Mundo Senai: https://www.canva.com/design/DAFuU_1uKok/nSM9aeO0SIg-V-Oq-rQWFw/edit?utm_content=DAFuU_1uKok&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
