@@ -42,5 +42,11 @@ Este Portifólio é sobre o conteudo que teremos durante o 2º e 3º ano do ensi
 ## Autorias
 * Testes de Sistemas: https://docs.google.com/document/d/1jwMGvtPiu0oPQlPQMigFcw-LJDG43ZBfRqE3fhu05EI/edit?usp=sharing
 * FINTECH: https://www.figma.com/proto/tCWiaG1wyPYRmCMyz0fhjF/Fintech?type=design&node-id=2-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2&authuser=0
-
+---
+# 3° Trimestre 
+## Cliente X: https://via-lagoa.vercel.app/
+* Escolhi essa ativida pois ela me ofereceu a experiência de como seria o mercado de trabalho, trabalhar com pessoas que eu não conheço ou até mesmo de pessoas que não gostp.
+---
+## TCC:
+* Escolhi essa atividade pois ela é a mais importante 
 
