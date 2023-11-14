@@ -48,5 +48,5 @@ Este Portifólio é sobre o conteudo que teremos durante o 2º e 3º ano do ensi
 * Escolhi essa ativida pois ela me ofereceu a experiência de como seria o mercado de trabalho, trabalhar com pessoas que eu não conheço ou até mesmo de pessoas que não gostp.
 ---
 ## TCC:
-* Escolhi essa atividade pois ela é a mais importante 
+* Escolhi essa atividade pois ela é a mais importante para o curso técnico
 
